@@ -176,7 +176,8 @@ print('my dt cost {} s'.format(time.time() - begin))
 
 clf_rf = RandomForestClassifier(min_samples_split=2)
 clf_rf.fit(x,y)
-show_info(clf_rf)
+show_info(clf_rf)whwhich
+
 
 my_rf = Random_tree()
 my_rf.rebuild(x,y,A,1)

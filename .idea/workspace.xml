@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e8b6243-2998-4505-b41e-c7f43fdfca7f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/decision_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/decision_tree.py" afterDir="false" />
     </list>
@@ -69,8 +68,8 @@
       <file leaf-file-name="decision_tree.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/decision_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+            <state relative-caret-position="618">
+              <caret line="178" column="17" lean-forward="true" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
               <folding>
                 <element signature="e#69#87#0" expanded="true" />
               </folding>
@@ -710,8 +709,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/decision_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+        <state relative-caret-position="618">
+          <caret line="178" column="17" lean-forward="true" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
           <folding>
             <element signature="e#69#87#0" expanded="true" />
           </folding>
